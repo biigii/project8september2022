@@ -1,0 +1,38 @@
+@font-face {
+  font-family: Montserrat;
+  src: url('../fonts/Montserrat-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: Caveat;
+  src: url('../fonts/Caveat-VariableFont_wght.ttf');
+}
+
+h1 {
+  /* font-family: Montserrat, sans-serif; */
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+
+p {
+  font-family: Caveat, serif;
+  font-size: 2em;
+}
+
+h3 {
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+
+h2 {
+  font-family: 'Inconsolata', monospace;
+  font-variant: small-caps;
+}
+
+h4 {
+  font-family: 'Bebas Neue', cursive;
+  color: rgb(120, 240, 100);
+  /* 2 x 16px which is the default size of html font size */
+  font-size: 2em;
+  font-style: italic;
+}
+
